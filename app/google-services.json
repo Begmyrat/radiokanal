@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "154601473105",
+    "project_id": "radiokanal-e5d0c",
+    "storage_bucket": "radiokanal-e5d0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154601473105:android:5a761759ae73e5a2e46470",
+        "android_client_info": {
+          "package_name": "com.example.radiokanal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154601473105-bo63q3emf1aaiqshirsbrrf9c595qb7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcmphx-Hs3z1BaY1I0rhwUgcIxPXx7aHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154601473105-bo63q3emf1aaiqshirsbrrf9c595qb7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
